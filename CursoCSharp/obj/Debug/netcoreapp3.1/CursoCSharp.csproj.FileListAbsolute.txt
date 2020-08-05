@@ -1,0 +1,17 @@
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Meu Pc\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
